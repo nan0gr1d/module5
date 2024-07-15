@@ -22,6 +22,7 @@ haus1 = House('Мое жилище', 9)
 haus1.go_to(8)
 haus1.go_to(-2)
 haus2 = House('коттедж на Рублевке', 4)
+haus2.go_to(1)
 haus2.go_to(666)
 
-#eof-module_5_1.py
+#eof-module_5_1
